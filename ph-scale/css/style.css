@@ -1,0 +1,70 @@
+body{
+     background-color:#c0c0c0;
+    }
+h1 {
+    background-color: #e0e0e0;
+    color:#64645a;
+   }
+p {
+    color: white;
+    text-transform: uppercase;
+  }
+p.fourteen {
+            background-color: #0088dd;
+           } 
+
+p.thirteen {
+            background-color: #0095e2;
+           }
+
+p.twelve {
+          background-color: #00a0e6;
+         }
+
+p.eleven {
+          background-color: #30aae9;
+         }
+
+p.ten {
+       background-color: #54b6ed;
+      }
+
+p.nine {
+        background-color: #72c1f0;
+       }
+
+p.eight {
+         background-color: #8ccaf2;
+        }
+
+p.seven {
+         background-color: #00bb88;
+        }
+
+p.six {
+       background-color: #f5b0cc;
+      }  
+
+p.five {
+        background-color: #f69fc0;
+       }
+
+p.four {
+        background-color: #f58cb2;
+       }
+
+p.three {
+         background-color: #f47ba6;
+        }
+
+p.two {
+       background-color: #f36a98;
+      }
+
+p.one {
+       background-color: #f45a8b;
+      }
+
+p.zero {
+        background-color: #ee3f80;
+       }
